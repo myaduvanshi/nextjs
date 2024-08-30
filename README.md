@@ -1,4 +1,7 @@
-# First you go to package.json file and change your project name install this repo in your computer
+# Step to Install next js using this repo
+## Step 1 : Go to the cmd and paste the command [git clone https://github.com/myaduvanshi/nextjs.git] and install it . In your perfer location
+## Step 2 : change folder name to your project name also change your project name inside to the packge.json file 
+## then start your project .
 
 ## Getting Started
 
